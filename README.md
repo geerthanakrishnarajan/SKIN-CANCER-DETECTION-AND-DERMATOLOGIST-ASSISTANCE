@@ -44,7 +44,11 @@ This project integrates deep learning algorithms, specifically Convolutional Neu
    ```bash
    git clone https://github.com/geerthanakrishnarajan/SKIN-CANCER-DETECTION-AND-DERMATOLOGIST-ASSISTANCE.git
 2. Install the required dependencies:
+   ```bash
    pip install -r requirements.txt
+
+FOR DATASET:
+https://www.kaggle.com/datasets/geerthanak/7-types-of-skin-cancer/data
 
 Usage
 1. Run the preprocessing script to prepare the images.
